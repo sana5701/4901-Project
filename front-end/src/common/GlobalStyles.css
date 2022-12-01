@@ -12,3 +12,14 @@
     color: aliceblue;
     font-size: 15px;
 }
+
+.GenerateButton {
+    margin: 10px;
+    height: 30px;
+    align-self: center;
+}
+
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+}
